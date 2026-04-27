@@ -97,3 +97,11 @@ http://localhost:8000/docs
 - Constraint validation engine  
 - Optimization layer (cost, efficiency, power)  
 ---
+
+## Engineering Direction Note
+
+This repository is intentionally structured as a controlled engineering prototype.
+
+The focus of this phase is not feature expansion, but architectural validation and system design clarity.
+
+We are ensuring the system is ready to evolve into a more advanced circuit synthesis engine in future phases.
